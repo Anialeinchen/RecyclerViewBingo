@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bingo_array">
+        <item>Rides a motorcycle</item>
+        <item>Has a tiger cat</item>
+        <item>Likes very spicy food</item>
+        <item>Tried bungee jumping</item>
+        <item>Still eats peanut butter</item>
+    </string-array>
+</resources>

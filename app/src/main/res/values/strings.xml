@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewBingo</string>
+    <string name="error_case">DEFAULT</string>
+</resources>
